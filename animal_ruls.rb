@@ -1,0 +1,1 @@
+more animal rules implemetation
